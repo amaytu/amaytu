@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00B9F7&width=435&lines=Prazer%2C+meu+nome+%C3%A9+Gabriel+Utyama;Tenho+20+anos" alt="Typing SVG" /></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaytu&theme=tokyonight_icons=true)
 
 
 <div style="display: inline_block"><br>
