@@ -20,4 +20,8 @@
 </div>
 
 
-![snake gif](https://github.com/amaytu/amaytu/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+
+  ![Snake animation](https://github.com/amaytu/amaytus/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
