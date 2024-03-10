@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=77c8f9&width=435&lines=Prazer%2C+meu+nome+%C3%A9+Gabriel+Utyama;Tenho+20+anos e trabalho com Unity/C#" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=77c8f9&width=435&lines=Prazer%2C+meu+nome+%C3%A9+Gabriel+Utyama;Tenho+21+anos e trabalho com Unity/C#" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
