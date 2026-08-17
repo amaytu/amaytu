@@ -1,13 +1,4 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=77c8f9&width=435&lines=Prazer%2C+meu+nome+%C3%A9+Gabriel+Utyama;Tenho+21+anos e trabalho com Unity/C#" alt="Typing SVG" /></a>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amaytu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-<div align="center" >
-  
 ### Linguagens destaques:
 
 <div align="center">
