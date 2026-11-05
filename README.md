@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/amaytu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+de+Software;C%23+%7C+.NET+%7C+TypeScript+%7C+Python;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Desenvolvedor+de+Software;C%23+%7C+.NET+%7C+TypeScript+%7C+Python;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,8 +16,7 @@
 
 - 💼 Desenvolvedor de software
 - 🔭 Trabalhando com aplicações em **C#** e no ecossistema **.NET**
-- 🌱 Estudando **TypeScript**, **Node.js**, **Python** e **Docker**
-- ⚡ Curiosidade: quanto mais legado o código, mais eu gosto do desafio 😅
+- 🧠 Conhecimento em **TypeScript**, **Node.js**, **Python**, **SQL Server** e **Docker**
 
 ---
 
@@ -54,20 +53,16 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amaytu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaytu&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="linguagens mais usadas" />
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="detalhes do perfil" />
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="estatísticas do GitHub" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repositórios por linguagem" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amaytu&theme=tokyonight&hide_border=true&locale=pt_BR" alt="sequência de contribuições" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amaytu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="troféus" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amaytu&theme=tokyo-night&hide_border=true&area=true" alt="gráfico de atividade" />
 </p>
 
 ---
