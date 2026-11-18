@@ -16,7 +16,7 @@
 
 - 💼 Desenvolvedor de software
 - 🔭 Trabalhando com aplicações em **C#** e no ecossistema **.NET**
-- 🧠 Conhecimento em **TypeScript**, **Node.js**, **Python**, **SQL Server** e **Docker**
+- 🧠 Conhecimento em **Git/Github** **TypeScript**, **Node.js**, **Python**, **SQL Server** e **Docker**
 
 ---
 
